@@ -35,3 +35,10 @@ url:http://127.0.0.1:8000/api/Farmacia
 parametros:longitud y latitud
 metodo:get
 url:http://127.0.0.1:8000/api/Farmacia
+
+<p>
+<img src="resources/static/img/Screenshot from 2021-12-19 19-33-39.png" width="350" title="hover text">
+<img src="resources/static/img/Screenshot from 2021-12-22 21-40-07.png" width="350" title="hover text">
+<img src="resources/static/img/Screenshot from 2021-12-22 21-40-07.png" width="350" title="hover text">
+<img src="resources/static/img/Screenshot from 2021-12-22 21-40-42.png" width="350" title="hover text">
+</p>
